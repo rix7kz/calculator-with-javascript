@@ -36,7 +36,7 @@ You'll need a web browser to run this project.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/NOTHINGISSECURE/calculator-with-javascript.git
+    git clone https://github.com/rix7kz/calculator-with-javascript.git
     ```
 2.  Open the `index.html` file in your browser.
 
